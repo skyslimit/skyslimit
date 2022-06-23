@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @skyslimit
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning/improving python, tensorflow, arduino and web development
-- 💞️ I’m looking to collaborate on what I can
-- 📫 How to reach me - finding out a way
+- This is a support profile - my main profile is https://github.com/paulovicentevalente
+
 
 <!---
 skyslimit/skyslimit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
